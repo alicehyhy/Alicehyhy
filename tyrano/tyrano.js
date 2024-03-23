@@ -102,7 +102,19 @@ tyrano.core ={
     },
     
     //ローディング完了、システムを組み上げていきます
-
+    build:function(){
+        
+        
+    },
+    
+    get:function(mark){
+        return $(mark);
+    },
+    
+    test:function(){
+        alert("Aliceyhy");
+    }
+};
 
 
 
@@ -123,5 +135,5 @@ $(function(){
     //DOM構築完了後の初期化
     //yunagi.init_loaded();
 TYRANO.init();
-      
+    
 });
