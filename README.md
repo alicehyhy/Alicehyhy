@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 
 <h1 align="center">
-I'm Rebecca (Alice)
+I'm Rebecca (AliceHyHy)
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5yOGJpNHl1dTN0N3ZqaHV6ZzFvMWZ2ZTN6Y3Q4ZTF0NnFjOGx4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="45"/>
 </h1>
 
