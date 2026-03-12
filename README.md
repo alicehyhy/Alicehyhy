@@ -1,13 +1,9 @@
 <!-- Banner / Header -->
 
 <h1 align="center">
-  Yo 👋, I'm Rebecca (Alice)
+I'm Rebecca (Alice)
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5yOGJpNHl1dTN0N3ZqaHV6ZzFvMWZ2ZTN6Y3Q4ZTF0NnFjOGx4NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="45"/>
 </h1>
-
-<p align="center">
-  <b>“I'm not a developer, just someone who likes to break and fix things.”</b>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alicehyhy&label=Profile%20views&color=blueviolet&style=for-the-badge" />
