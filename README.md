@@ -14,8 +14,7 @@ I'm Rebecca (Alice)
 ## 🌐 Socials
 
 * 🌍 Website: **https://alicehyhy.github.io/**
-* 📧 Email: **[yourmail@gmail.com](mailto:yourmail@gmail.com)**
-* ▶️ YouTube: **https://youtube.com/**
+* 📧 Email: **[alicehyhy@gmail.com](mailto:alicehyhy@gmail.com)**
 
 ---
 
