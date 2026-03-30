@@ -35,4 +35,3 @@ I'm Rebecca (AliceHyHy)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alicehyhy&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="160"/>
 </p>
- full lại giới thiệu về íos hết stack thêm app ios vào nữa
