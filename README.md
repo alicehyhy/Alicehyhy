@@ -28,9 +28,6 @@ I'm Rebecca (AliceHyHy)
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicehyhy&layout=compact&theme=tokyonight" height="150"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alicehyhy&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="160"/>
