@@ -42,7 +42,7 @@
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,apple,xcode,html,css,js,git,linux,c" height="48"/>
+  <img src="https://skillicons.dev/icons?i=swift,apple,html,css,js,git,linux,c" height="48"/>
 </p>
 
 ### 🔹 Main Stack
